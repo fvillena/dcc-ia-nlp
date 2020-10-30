@@ -1,0 +1,3 @@
+lapiz	elemento para escribir	elemento para dibujar
+sacapunta	elemento para sacarpunta	arma de ataque
+goma	elemento para borrar	personal de apoyo
