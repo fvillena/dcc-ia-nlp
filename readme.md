@@ -53,7 +53,7 @@ Equipo docente 🧑‍🏫:
 10. [Contextual Word Representations: A Contextual Introduction by Noah A. Smith](https://arxiv.org/pdf/1902.06006.pdf)
 
 ## Other NLP Courses
-1. [CC6205 - Natural Language Processing del DCC Uchile](https://github.com/dccuchile/CC6205)
+1. [CC6205: Curso de Natural Language Processing del DCC Uchile](https://github.com/dccuchile/CC6205)
 1. [CS224n: Natural Language Processing with Deep Learning, Stanford course](http://web.stanford.edu/class/cs224n/)
 2. [Deep Learning in NLP: slides by Horacio Rodríguez](https://www.cs.upc.edu/~horacio/ahlt/DeepLearning02.pdf)
 3. [David Bamman NLP Slides @Berkley](http://people.ischool.berkeley.edu/~dbamman/nlp18.html)

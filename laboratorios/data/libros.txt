@@ -1,0 +1,6 @@
+id, nombre, autor, año, genero
+1, Harry Potter y la piedra filosofal, J.K. Rowling, 1997, Fantasía
+2, Cien años de soledad, Gabriel García Márquez, 1967, Realismo mágico
+3, El principito, Antoine de Saint-Exupéry, 1943, Fábula
+4, 1984, George Orwell, 1949, Distopía
+5, Don Quijote de la Mancha, Miguel de Cervantes, 1605, Novela
