@@ -18,7 +18,7 @@ Equipo docente 🧑‍🏫:
 ## Canales de comunicación 📞
 
 - Foro de ucursos para cualquier duda de los contenidos del curso y administrativas. Todos los mails con consultas al equipo docente serán redirigidos al foro. Idea detrás de esto: La colaboración entre equipos.
-- Github: Cátedras y calendario.
+- Github: materia práctico del módulo, laboratorios, tutoriales y tareas.
 
 ## NLP Libraries and Tools
 
